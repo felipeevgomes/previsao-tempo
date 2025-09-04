@@ -1,3 +1,4 @@
+
 # Previsão do Tempo
 
 Este projeto é uma aplicação web simples para consultar condições do tempo em diferentes localidades. Desenvolvido com TypeScript, HTML, CSS e JavaScript puro.
@@ -49,3 +50,6 @@ previsao-do-tempo/ts/index.ts # Código fonte TypeScript
 ## Licença
 
 Este projeto é apenas para fins educacionais.
+=======
+# previsao-tempo
+
