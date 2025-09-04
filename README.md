@@ -38,5 +38,5 @@ previsao-do-tempo/ts/index.ts # Código fonte TypeScript
 
 Este projeto é apenas para fins educacionais.
 =======
-# previsao-tempo
+
 
