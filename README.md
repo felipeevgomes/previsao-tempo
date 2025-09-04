@@ -34,19 +34,6 @@ previsao-do-tempo/ts/index.ts # Código fonte TypeScript
    ```
 3. Abra o `index.html` no navegador.
 
-## Como subir para o GitHub
-
-1. Crie um repositório novo no GitHub.
-2. Execute os comandos:
-   ```bash
-   git init
-   git add .
-   git commit -m "Primeiro commit"
-   git branch -M main
-   git remote add origin https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-   git push -u origin main
-   ```
-
 ## Licença
 
 Este projeto é apenas para fins educacionais.
