@@ -1,0 +1,18 @@
+# Ignora arquivos de build e dependências
+/node_modules/
+/js/
+/*.js
+/*.js.map
+/*.d.ts
+/*.d.ts.map
+/dist/
+.env
+.DS_Store
+.vscode/
+
+# Ignora arquivos temporários
+*.log
+*.tmp
+
+# Ignora arquivos do sistema
+Thumbs.db
